@@ -1,0 +1,711 @@
+DEBUG: Creating StockExchange object...
+DEBUG: StockExchange object created!
+Enter the trader id: 
+Enter the balance: 
+Enter the stock symbols and quantity: 
+Trader T1 has been registered successfully
+Enter the trader id: 
+Enter the balance: 
+Enter the stock symbols and quantity: 
+Trader T2 has been registered successfully
+Enter the trader id: 
+Enter the balance: 
+Enter the stock symbols and quantity: 
+Trader T3 has been registered successfully
+Enter the trader id: 
+Enter the balance: 
+Enter the stock symbols and quantity: 
+Trader T4 has been registered successfully
+Enter the trader id: 
+Enter the balance: 
+Enter the stock symbols and quantity: 
+Trader T5 has been registered successfully
+Running simulation...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Order is executing...
+Order created for trader with price 52.5
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Order is executing...
+Order created for trader with price 52.5
+Order added for trader T4
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Order is executing...
+Order created for trader with price 52.5
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Order is executing...
+Order created for trader with price 47.5
+Order added for trader T3
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Order is executing...
+Order created for trader with price 47.5
+Matching orders...
+52.5 52.5
+Updating trader values...
+7895
+6105
+9
+52.5 47.5
+Updating trader values...
+6952.5
+3047.5
+6
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Order is executing...
+Order created for trader with price 47.5
+Order added for trader T5
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Order is executing...
+Order created for trader with price 47.5
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 5 stocks of MSFT to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Order is executing...
+Order created for trader with price 52.5
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Order is executing...
+Order created for trader with price 52.5
+Order added for trader T1
+Matching orders...
+52.5 52.5
+Updating trader values...
+2837.5
+5210
+7
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
+Performing trade step...
+Enter the order type (BUY/SELL) for trader T5
+Enter the stock symbol for trader T5
+Enter the quantity for trader T5
+Trader T5 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T4
+Enter the stock symbol for trader T4
+Enter the quantity for trader T4
+Trader T4 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T2
+Enter the stock symbol for trader T2
+Enter the quantity for trader T2
+Trader T2 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T3
+Enter the stock symbol for trader T3
+Enter the quantity for trader T3
+Trader T3 does not have 1 stocks of  to sell.
+Enter the order type (BUY/SELL) for trader T1
+Enter the stock symbol for trader T1
+Enter the quantity for trader T1
+Trader T1 does not have 1 stocks of  to sell.
+Matching orders...
