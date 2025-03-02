@@ -25,24 +25,29 @@
         return {buyOrders[stock_symbol].top().price, sellOrders[stock_symbol].top().price};
     }
     // function to return top 5 buy and sell orders (note that method is modifying the priority queues)
-    pair<vector<Order>, vector<Order> > StockExchange::Top5BuyandSellOrders(string stock_symbol){
-        vector<Order> buy, sell;
-        for (int i = 0; i < 5; i++) {
-            if(!buyOrders[stock_symbol].empty())
-            {buy.push_back(buyOrders[stock_symbol].top());
-            buyOrders[stock_symbol].pop();
-            }
-            if(!sellOrders[stock_symbol].empty()){
-            sell.push_back(sellOrders[stock_symbol].top());
-            sellOrders[stock_symbol].pop();
-            }
-        }
-        reverse(buy.begin(), buy.end());
-        reverse(sell.begin(), sell.end());
-        cancelRemainingOrders(stock_symbol);
-       // print top5 orders
-        return {buy, sell};
+   // StockExchange.cpp update for Top5BuyandSellOrders method
+
+pair<vector<Order>, vector<Order>> StockExchange::Top5BuyandSellOrders(string stock_symbol) {
+    vector<Order> buy, sell;
+    
+    // Create copies of the queues to avoid modifying the originals
+    priority_queue<Order, vector<Order>, BuyOrderComparator> buyOrdersCopy = buyOrders[stock_symbol];
+    priority_queue<Order, vector<Order>, SellOrderComparator> sellOrdersCopy = sellOrders[stock_symbol];
+    
+    // Extract top 5 buy orders
+    for (int i = 0; i < 5 && !buyOrdersCopy.empty(); i++) {
+        buy.push_back(buyOrdersCopy.top());
+        buyOrdersCopy.pop();
     }
+    
+    // Extract top 5 sell orders
+    for (int i = 0; i < 5 && !sellOrdersCopy.empty(); i++) {
+        sell.push_back(sellOrdersCopy.top());
+        sellOrdersCopy.pop();
+    }
+    
+    return {buy, sell};
+}
     // check if an order is accepted or no
     // return accepted orders
     void StockExchange::addOrder(Order order){
